@@ -45,7 +45,7 @@ type Config struct {
 
 type Smtp struct {
 	Server   string `mapstructure:"server_name"`
-	Port     string
+	Port     int
 	Address  string
 	Password string
 }
