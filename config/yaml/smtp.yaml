@@ -1,0 +1,5 @@
+smtp:
+  server_name: 'smtp.gmail.com'
+  port: '587'
+  address: 'sss@gmail.com'
+  password: 'ddd'
